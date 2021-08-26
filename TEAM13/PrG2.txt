@@ -1,0 +1,2 @@
+Profit of the company =75%
+Loss = 25%
